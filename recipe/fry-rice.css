@@ -1,0 +1,16 @@
+p{
+	color: red;
+}
+.title{
+	color: blue;
+}
+.step{
+	color: purple;
+	background-image: url(../image/fry-rice.JPG);
+}
+.step h2{
+	color:brown;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 35px;
+	font-weight: bold;
+}
