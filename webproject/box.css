@@ -1,0 +1,23 @@
+.title{
+	border-top: 3px	 double blue;
+	/*border-bottom: 3px double blue;
+	border-left: 3px double greenyellow;
+	border-right: 6px double rebeccapurple;*/
+	background-color: linen;
+}
+.p1{
+	border: 1px solid rebeccapurple;
+	background-color: pink;
+	margin-bottom: 100px;
+	margin-right: 50px;
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+.p2{
+	border: 5px dotted deeppink;
+	background-color: lightyellow;
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
